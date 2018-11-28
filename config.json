@@ -1,0 +1,10 @@
+{
+    "wpt_url" : "https://www.webpagetest.org/runtest.php",
+    "test_url" : "https://inhabitat.com/",
+    "api_key" : "A.6a8cbf35982bf7e08b81a8e3257f0938",
+    "location" : "Dulles.Native",
+    "priority" : "0",
+    "block" : "%2Fjs%2Fad.min.js%20hb-lite.min.js%20%2Fht%2Fhtw-ib-inhabitat.js%20apstag.js%20integrator.js%20s.mnet-ad.net%20securepubads%20googlesyndication",
+    "script_unity" : "setDns%20inhabitat.com%2052.6.144.109%0AsetCookie%20https%3A%2F%2Finhabitat.com%20apadb%3Doff%0Anavigate%20https%3A%2F%2Finhabitat.com",
+    "script_unity_blocked" : "setDns%20inhabitat.com%2052.6.144.109%0AsetCookie%20https%3A%2F%2Finhabitat.com%20apsid%3D1542414095244547%0AsetCookie%20https%3A%2F%2Finhabitat.com%20apsct%3De947314d0fed7e3cd2634a1469861142%0AsetCookie%20https%3A%2F%2Finhabitat.com%20apss%3Dd%0AsetCookie%20https%3A%2F%2Finhabitat.com%20apadb%3D4%0Anavigate%20https%3A%2F%2Finhabitat.com"
+}
