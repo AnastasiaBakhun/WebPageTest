@@ -6,7 +6,7 @@ import sys
 import csv
 
 test_ID = ''
-# some comment 
+# some comment to test new branch
 def checkStatus(testID, test_type):
     print('Check status...')
     status = ''
